@@ -1,9 +1,14 @@
 # AutosubBehindWall
 Subtitle generator with option of using ALI, Baidu, Tencent and Xunfei service
+
 TODO: 
+
 Write a proper README
+
 Finish commenting
+
 Use the audio sectioning method from AUTOSUB project
+
 Get AZURE working
 
 How To Use:
